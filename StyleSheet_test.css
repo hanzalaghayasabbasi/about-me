@@ -1,0 +1,198 @@
+﻿body{
+    text-align:center;
+    margin:0;
+    font-family:Tahoma;
+}
+p{
+    line-height:2;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.h2 {
+    
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight:normal;
+}
+
+.pro{
+    text-decoration:underline;
+}
+
+.qw{
+    width:15%;
+    margin:auto;
+}
+
+h1 {
+    /*  font-size:90px; 16px=100%=1em or 1rem 90/16=5.625 rem  90/16*100=562.5%   we used percent because if any change preference it will change with it
+rem had less errors  so recomedted used and it ignore all parent font size  */
+    font-size: 5.625rem;
+    margin: 150px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+    line-height:2;
+}
+.btn {
+    color:#11999E;
+}
+h3 {
+    color:#11999E;
+}
+.dv {
+    background-color:#C0EEE4;
+    position: relative;
+    padding-top: 100px;
+}
+.v2 {
+    margin-right:30px;
+    width: 25%;
+    float:left;
+}
+.manag{
+    margin:0px;
+}
+.manag1{
+    margin:0px;
+}
+/*
+.antifloat{
+    clear:left;
+}*/
+.v3 {
+    width: 25%;
+}
+.king {
+  
+    float: left;
+    margin-right: 30px;
+}
+.v1 {
+    margin-top:2%;
+    height: 200px;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom:none;
+    width:5%;
+    margin:100px auto;
+}
+.top {
+ position:absolute;
+ top:50px;
+ right:30px;
+
+}
+.bottom {
+  
+    height: 250px;
+    width: 400px;
+   
+}
+.tp{
+    position:absolute;
+    left:30px;
+ 
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 80px 0 20px;
+    margin-top: 20px;
+}
+a{
+    color:#11999E;
+    font-family: 'Merriweather Sans', sans-serif;
+    margin: 10px 20px;
+    text-decoration:none;
+}
+a:hover{
+    color:#EAF6F6;
+}
+.copyright{
+    color:#EAF6F6;
+    font-size:0.75rem;
+    padding:20px 0;
+}
+.kk{
+  position:absolute;
+  margin-left:300px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+    .btn:hover {
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4add);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4add);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4add);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4add);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4add);
+        text-decoration: none;
+    }
+/*
+.top {
+    background-color: #FBFACD;
+    height: 200px;
+    width: 200px;
+ 
+    padding:10px;
+   border:solid 10px;
+             <h1>I am Hanzala </h1>
+        <p>I am a <span class="l">pro</span>grammer</p>
+
+      display: inline-block;
+    position:absolute;
+    left:400px;
+    top:400px;
+ 
+}
+
+.mid {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+      display: inline-block;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    
+    border:solid 20px;
+    margin:0px 0px 0px 240px;
+  
+}
+
+.botoom {
+    height: 200px;
+    width: 200px;
+    background-color: forestgreen;
+    display: inline-block;
+    position:absolute;
+   
+    
+    background-color: red;
+    border: solid 10px;
+    margin-left:480px;
+}
+.l{
+text-decoration:underline;
+}
+*/

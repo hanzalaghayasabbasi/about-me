@@ -1,13 +1,3 @@
-<p>Click here -> <a href=/>ABOUT-ME</a> to know about me </p>p 
-<!DOCTYPE html>
-<html>
-	
-<head>
-	<title>
-		Create an HTML button that
-		acts like a link
-	</title>
-	
 	<!-- Style to create button -->
 	<style>
 		.GFG {
@@ -23,16 +13,11 @@
 			text-decoration:none;
 		}
 	</style>
-</head>
 
-<body>
 	
 	<!-- Create a normal link and add CSS property -->
  
 	<p>Click here -> <a href="https://hanzalaghayasabbasi.github.io/about-me" class="GFG">
 		About-Me
-	</a>to know about me </p> 
-</body>
-
-</html>								
+	</a>to know about me </p> 					
 
